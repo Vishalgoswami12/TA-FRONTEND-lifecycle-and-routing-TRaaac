@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:darkmagenta
 }
 
 code {
@@ -15,7 +16,8 @@ code {
   width: 50%;
   margin: 0 auto;
   background-color: burlywood;
-  margin-top: 15%;
+  margin-top:4%;
+  padding: 10px;
 }
 .button{
   text-align: center;
